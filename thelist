@@ -1227,4 +1227,285 @@
 	"website": "http://www.google.com"
 }
 
+},
+
+{
+"name": "Eiji Kitamura",
+
+"Location": "Tokyo, Japan",
+
+"contact": {
+	"website": "https://www.twitter.com/agektmr"
+},
+
+"occupation": "Developer Advocate for Chrome",
+"bio": "Eiji is a Developer Advocate for Chrome at Google. Eiji works closely with web application developers, helping them understand HTML5, open web technologies and WebStore. Before joining Google, he was leading SocialWeb effort on a portal site, developed the first Japanese OpenSocial container. He's also organizing developer community called SocialWeb Japan in his free time.",
+"specialties": [
+	"Chrome",
+	"Social Web",
+	"OpenSocial",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Eric Bidelman",
+
+"Location": "San Francisco, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/ebidel"
+},
+
+"occupation": "Senior Developer Programs Engineer for Google Chrome",
+"bio": "Eric is a Senior Developer Programs Engineer on the Google Chrome team. Over the last two years he's worked on various developer focused products, including Google Docs, Sites, Health, and OAuth. Eric joined the Chrome team to help spread HTML5 goodness around the globe. He is the author of "Using the HTML5 Filesystem API" and a core contributor to html5rocks.com. Prior to Google, Eric worked as a software engineer at the University of Michigan where he designed rich web applications and APIs for the university's 19 libraries.",
+"specialties": [
+	"HTML5",
+	"Native Client",
+	"Chrome",
+	"Google Docs",
+	"Google Sites",
+	"Google Health",
+	"OAuth",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Eric Koleda",
+
+"Location": "New York City, USA",
+
+"contact": {
+	"website": "https://twitter.com/erickoleda"
+},
+
+"occupation": "Developer Programs Engineer for AdWords and DoubleClick",
+"bio": "Eric is a Developer Programs Engineer working primarily on the AdWords API and DoubleClick For Publishers API. He spends his days in the New York office working on PHP client libraries, moderating developer forums, and writing for social media. Before joining Google, Eric was a Product Specialist at Open Text, an enterprise web content management software company.",
+"specialties": [
+	"AdWords API",
+	"DoubleClick for Publishers API",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Eric Leichtenschlag",
+
+"Location": "Santa Clara, California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/112870803958713211515/posts"
+},
+
+"occupation": "Developer Programs Engineer for Mobile Ads",
+"bio": "Eric is a Developer Programs Engineer for Mobile Ads at Google. He works with mobile app publishers who are looking to use the Google AdMob Ads SDK to serve ads to their users. Eric has also contributed to the AdWhirl project for Android. In his free time, Eric enjoys both playing and watching sports, football and basketball being his favorites. He also spends a lot of time on his computer, either playing PC games or working on a new coding project.",
+"specialties": [
+	"Android",
+	"AdMob",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Ernest Delgado,
+
+"Location": "San Francisco, USA",
+
+"contact": {
+	"website": "https://plus.google.com/116626522131014198728/about"
+},
+
+"occupation": "Developler Advocate for Google Chrome, Extensions and OS",
+"bio": "Ernest works with developer communities around Google Chrome, Google Chrome Extensions and Google Chrome OS. He loves playing with HTML5 features and solving web performance related issues. Prior to Google, he was working as a Front End Engineer at Yahoo! trying to become a JavaScript guru. Ernest is originally from Barcelona and currently resides in San Francisco.",
+"specialties": [
+	"Chrome",
+	"HTML5",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Erwan Macé",
+
+"Location": "Singapore",
+
+"contact": {
+	"website": "https://www.twitter.com/erwanmace"
+},
+
+"occupation": "Developer Relations",
+"bio": "Erwan is joining our Developer Relations team to help us grow and consolidate our presence in South-East Asia, a region he adopted as his second home when he first moved to Singapore (from Paris, France) at the age of 14. Prior to joining Google, Erwan shared his career between Europe and Asia, holding senior technical leadership positions in both big organisations (Alcatel, Akamai, Vivendi) as well as smaller internet startups (Spray, Soundbuzz). More recently, he started Bitsmedia, a Singapore based company specialising in the development of iOS and Android apps for corporate clients. Erwan holds two Master's degrees in Information Systems Engineering and in Management Sciences. He is the proud father of a 5-yr old little girl.",
+"specialties": [
+	""
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Filip Hráček",
+
+"Location": "Czech Republic",
+
+"contact": {
+	"website": "https://www.twitter.com/filiphracek"
+},
+
+"occupation": "Developer Relations Program Manager",
+"bio": "Filip is the Developer Relations Program Manager for Google Czech Republic. He strives to bring Google technologies to the Czech Republic and to help Czech developers use them. His ambition is to support the regional tech start-up scene. Filip has ~10 years of web development & consulting experience and has been at Google since early 2008. He loves Dart, games, and pancakes.",
+"specialties": [
+	"HTML5",
+	"Dart",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Francisco Solsona",
+
+"Location": "Mexico",
+
+"contact": {
+	"website": "https://www.twitter.com/solsona"
+},
+
+"occupation": "Program Manager and Country Lead for Developer Relations in Mexico",
+"bio": "Francisco is a Program Manager and Country Lead for Developer Relations in Mexico, where he aims to strengthen the developer community by executing strategic DevRel programs; and to empower developers, locally, by promoting high quality events, and cementing relations with local organizations, industry, and education institutions; and, in the region, by boldly exploring formats, and technologies to reach and deliver the same quality message to a much broader audience.",
+"specialties": [
+	"Developer Tools",
+	"Google Apps",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Fred Chung",
+
+"Location": "San Francisco, Bay Area, USA",
+
+"contact": {
+	"website": "https://plus.google.com/112600205125796554588/posts"
+},
+
+"occupation": "Developer Advocate for Android",
+"bio": "Fred is a Developer Advocate at Google working with Android developers worldwide to realize compelling mobile apps. He is also involved with efforts to help developers monetize with Google's mobile ads products. Before joining Google, Fred was a consultant at Accenture and has held various software engineering positions in the enterprise systems integration area.",
+"specialties": [
+	"Android",
+	"Mobile Ads",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Fred Sauer",
+
+"Location": "Mountain View, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/fredsa"
+},
+
+"occupation": "Developer Advocate",
+"bio": "Fred Sauer is a Developer Advocate at Google where most of his time is devoted to Google App Engine and GWT. He is the author of various GWT related open source projects including gwt-dnd (providing in browser Drag and Drop capabilities), gwt-log (an advanced logging framework) and gwt-voices (for cross browser sound support). Fred has dedicated much of his career to Java related development, with an increasing focus on Web 2.0 technologies. As a consultant he has worked on a wide variety of projects in North America, Asia and Europe, primarily in the financial and billing industry.",
+"specialties": [
+	"App Engine",
+	"PlayN",
+	"GWT",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Fumi Yamazaki",
+
+"Location": "Japan",
+
+"contact": {
+	"website": "https://www.twitter.com/fumi"
+},
+
+"occupation": "Country Lead for Developer Relations",
+"bio": "Fumi is the Japan Country Lead for Developer Relations Team. She started her career working at NTT- the largest telecom in Japan for 7 years and moved to Interscope - a marketing research company, then joined Digital Garage which Joichi Ito cofounded where she worked on localizing blog search engine Technorati to Technorati Japan, helped Creative Commons Japan and iCommons, invested and helped startups and organized conferences such as New Context Conference and iCommons Summit. She joined Google after freelancing as a traveler, researcher, consultant and a journalist.",
+"specialties": [
+	"Developer Relations Japan Country Lead"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Harrison Shih",
+
+"Location": "San Francisco Bay Area, USA",
+
+"contact": {
+	"website": "https://twitter.com/harrisonshih"
+},
+
+"occupation": "Product Marketing Manager for Google Apps Marketplace and Partner Marketing",
+"bio": "Harrison is a Product Marketing Manager supporting the Google Apps Marketplace and Partner Marketing. He works closely with ISVs to help create brand awareness and marketing buzz in sync with Google marketing messages and efforts. Harrison is new to the Google team with a background in various leadership and marketing roles in startups.",
+"specialties": [
+	"Google Apps Marketplace",
+	"Google App Engine",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
 },]
