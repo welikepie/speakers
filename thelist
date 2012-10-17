@@ -665,4 +665,288 @@
 	"website": "http://www.google.com"
 }
 
+},
+
+{
+"name": "Carol Smith",
+
+"Location": "San Francisco, California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/106914622056861826817/about"
+},
+
+"occupation": "Program Administrator for Google Summer of Code Program",
+"bio": "Carol Smith is the program administrator for the Google Summer of Code program. She has been involved in program management in many different departments at Google for 5 years. She has a degree in photojournalism from California State University, Northridge, and is a California native and avid cyclist.",
+"specialties": [
+	"Google Summer of Code",
+	"Google Code-in",
+	"Melange",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chirag Shah",
+
+"Location": "Sunnyvale, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/chirags"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Chirag is a Developer Programs Engineer on the Google+ team.",
+"specialties": [
+	"Google+",
+	"Social Web",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chris Broadfoot",
+
+"Location": "Sydney, Australia",
+
+"contact": {
+	"website": "https://www.twitter.com/broady"
+},
+
+"occupation": "Developer Programs Engineer on the Geo Developer Relations Team",
+"bio": "Chris is a Developer Programs Engineer on the Geo Developer Relations team. He is currently focused on the Maps JavaScript API, helping developers build compelling applications. Prior to Google, he worked as a developer at Atlassian, CSC and Coca-Cola Amatil.",
+"specialties": [
+	"Geo"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chris Chabot",
+
+"Location": "Mountain View, California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/+ChrisChabot/about"
+},
+
+"occupation": "Manager of the Google+ Developer Relations Team",
+"bio": "Chris manages the Google+ Developer Relations team & is passionate about the social media, sociology, open source, photography and trying to do the impossible on a daily basis.",
+"specialties": [
+	"Google+"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chris DiBona",
+
+"Location": "Mountain View, California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/+cdibona/about
+},
+
+"occupation": "Open Source and Public Sector Programs Manager",
+"bio": "Chris DiBona is the open source and public sector programs manager at Mountain View, Ca. based Google. His team oversees license compliance and supports the open source developer community through programs such as the Google Summer of Code and through the release of open source software projects and patches. In the public sector space, he looks after Google Moderator and the polling locations API.",
+"specialties": [
+	"Open Source",
+	"Open Government",
+	"Summer of Code"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chris Messina",
+
+"Location": "San Francisco, USA",
+
+"contact": {
+	"website": "https://plus.google.com/+ChrisMessina/about"
+},
+
+"occupation": "UX Designer",
+"bio": "Chris Messina is a San Francisco-based advocate of the open web, known for his involvement in communities like Mozilla, BarCamp, coworking, and technology initiatives such as OpenID, OAuth, Activity Streams, hashtags, and microformats. He is on the board of the OpenID and Open Web Foundations. Formally trained as a designer, Chris brings a unique perspective to Developer Relations at Google.",
+"specialties": [
+	"Buzz",
+	"Social Web",
+	"Identity",
+	"Developer Experience",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chris Schalk,
+
+"Location": "San Francisco Bay Area, USA",
+
+"contact": {
+	"website": "https://twitter.com/cschalk"
+},
+
+"occupation": "Developer Advocate",
+"bio": "AChris is a Developer Advocate at Google who engages the cloud development communities with both Google App Engine and other Google cloud technologies. Chris joined Google in 2007 and has worked on various Google technologies including OpenSocial, Maps and AJAX Apis. Prior to Google, Chris was a Principal Product Manager at Oracle in the development tools group as well as co-author of "JavaServer Faces: The Complete Reference". Chris is a private pilot and also enjoys building and flying RC airplanes. When not flying, he also plays trumpet in various San Francisco Bay Area symphonies. Chris speaks Spanish, and a little French and German.",
+"specialties": [
+	"App Engine",
+	"Google Storage",
+	"Prediction API",
+	"BigQuery",
+	"Social Web",
+	"Geo",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Chris Wilson",
+
+"Location": "Seattle, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/cwilso"
+},
+
+"occupation": "Developer Advocate for Google TV",
+"bio": "Chris is a Developer Advocate for Google TV, based in Seattle. He started working on web browsers in 1993 when he co-authored the original Windows version of NCSA Mosaic, the first mass-market WWW browser. After leaving NCSA in 1994 and spending a year working on a Mosaic-derivative web browser for SPRY, Inc., he joined Microsoft's Internet Explorer team as a developer in 1995. While at Microsoft, Chris participated in many standards working groups, in particular helping develop standards for CSS, HTML (including co-chairing the HTML 5 WG for a couple of years), the DOM and XSL, as well as writing the code for the first implementation of CSS in a web browser. After working on WPF, he led the IE Platform and Security team, functioned as the IE Platform Architect, and then moved over to lead the JavaScript engine program management team. In his free time, Chris enjoys photography, hiking, and scuba diving (yes, in Puget Sound as well as the tropics) as a PADI Assistant Instructor.",
+"specialties": [
+	"Open Web Platform",
+	"W3C",
+	"HTML5",
+	"CSS",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Christian Kurzke",
+
+"Location": "San Francisco Bay Area, USA",
+
+"contact": {
+	"website": "https://twitter.com/cnkurzke"
+},
+
+"occupation": "Developer Advocate for Google Android,
+"bio": "Christian is Developer Advocate for the Google Android Platform, and has recently been focusing on Android for Google TV. He is an Open Source enthusiast, committer in the Eclipse Foundation and has been working at the intersection of Linux and Java since the early 90's. Prior to Google, Christian worked in Motorola's Mobile Phone and Set-top Box divisions. Before that, Christian was at SUN working on Java for Embedded Systems. He holds a Dipl. Inf. degree from Univ. Erlangen, Germany, and an MBA from Santa Clara University.",
+"specialties": [
+	"Android",
+	"Google TV",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Christine Songco Lau",
+
+"Location": "San Francisco, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/tine"
+},
+
+"occupation": "Manager in Developer Relations",
+"bio": "Christine is a Manager in Developer Relations, working out of the San Francisco office, focused specifically on the developer community of SE Asia. She has worked at Google since 2003, both in technical and non technical roles involving Blogger, Google Code, and Google Friend Connect. In addition, she's worked on many large scale Google developer events such as Google I/O. Before joining Google, Christine worked as a software engineer at IBM and a Sales Engineer at GlobalCenter/Exodus Communications (now Saavis, Inc.). She graduated from Cal Poly SLO with a Bachelors in Business Administration, concentrating in Management Information Systems. Outside of work, Christine enjoys traveling, scuba diving, snowboarding, reading and cooking.",
+"specialties": [
+	""
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Claudio Cherubino",
+
+"Location": "Mountain View, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/ccherubino"
+},
+
+"occupation": "Engineer in the Google Drive Developer Relations Team",
+"bio": "Claudio is an engineer in the Google Drive Developer Relations team. Prior to Google, he worked as software developer, technology evangelist, community manager, consultant, technical translator and has contributed to many open-source projects. His current interests include Google APIs, new technologies and coffee.",
+"specialties": [
+	"Google Drive",
+	"Google Apps APIs",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Colt McAnlis",
+
+"Location": "San Jose, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/duhroach"
+},
+
+"occupation": "Chrome Games Developer Advocate",
+"bio": "Colt McAnlis is a Chrome Games Developer Advocate at Google focusing on HTML5 and Native Client; Before that, he was a systems & graphics programmer in the games industry working at Blizzard, Ensemble, and Petroglyph. He also spent 4 years as an Adjunct Professor at SMU Guildhall's school for game development, where he taught classes on math, physics, graphics, and concurrent programming. When he's not working with partners, Colt spends his time preparing for an invasion of giant ants from outer space.",
+"specialties": [
+	"Games",
+	"Native Client",
+	"HTML5",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
 },]
