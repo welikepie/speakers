@@ -949,4 +949,282 @@
 	"website": "http://www.google.com"
 }
 
+},
+
+{
+"name": "Dan Galpin",
+
+"Location": "San Francisco, Bay Area, USA",
+
+"contact": {
+	"website": "https://plus.google.com/105593270217665985575"
+},
+
+"occupation": "Developer Advocte for Google Android Team",
+"bio": "Dan Galpin is a Developer Advocate for the Google Android team focused on Games. He works extensively with both the Dalvik and NDK environments. Before joining Google, Dan developed several Android media applications, created an Android instructional video, and was a technical reviewer for a popular Android book. He has spent the last ten years working in the mobile space, developing at almost every layer of the phone stack. In his spare time, he performs opera, operetta, and musical theater.",
+"specialties": [
+	"Android",
+	"App Engine",
+	"Social"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Dan Holevoet",
+
+"Location": "Mountain View, California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/112953471808394921173/about"
+},
+
+"occupation": "Member of the Google Developer Relations Team",
+"bio": "Dan joined the Google Developer Relations team in 2007. When not playing Starcraft, he works on Google App Engine. He's previously worked on iGoogle, OpenSocial, Gmail contextual gadgets, the Google Apps Marketplace, and the Calendar and Contacts APIs.",
+"specialties": [
+	"Google App Engine",
+	"Google Apps APIs",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Dan Sanderson",
+
+"Location": "Seattle, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/dan_sanderson"
+},
+
+"occupation": "Software Engineer and Technical Writer",
+"bio": "Dan is a software engineer and technical writer at Google. He is the author of the book "Programming Google App Engine". Dan has been building web applications and developer tools since the late 1990's. Dan lives in Seattle, Washington, USA.",
+"specialties": [
+	"App Engine",
+	"Social Web",
+	"Developer Experience",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Danial Klimkin",
+
+"Location": "Saint-Petersburg, Russia",
+
+"contact": {
+	"website": "https://www.twiter.com/danialklimkin"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Danial is a Developer Programs Engineer based in Saint-Petersburg, Russia. He currently works on the AdWords API and DoubleClick For Publishers API. Danial maintains the Ruby DFP client library and works on the new generation of Ruby common framework for Ads APIs. With 5+ years of experience in online marketing, he works directly with large local companies.",
+"specialties": [
+	"AdWords API",
+	"DoubleClick for Publishers API",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Daniel Dobson",
+
+"Location": "San Francisco Bay Area, USA",
+
+"contact": {
+	"website": "https://plus.google.com/+WolffDobson/posts"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Wolff is a Developer Programs Engineer at Google working on social products. Before Google, he worked in the game industry for 12 years, including building AI for Sega Sports and developing the Wii MotionPlus. He also, for some reason, has a PhD in artificial intelligence.
+",
+"specialties": [
+	"Google+"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Danny Hermes",
+
+"Location": "San Francisco Bay Area, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/bossylobster"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Danny is a Developer Programs Engineer at Google working on the Commerce team. He is kind of a nut; a sports nut, a Python nut and a problem solving nut. Prior to Google, he worked at a healthcare startup in Silicon Valley and before that graduated from the University of Michigan with BS degrees in Mathematics and Economics (seriously, not BS-ing you). Born and bred a midwestern boy, Danny can't get enough California sunshine (or HTML5, Number Theory, JavaScript, Linear Algebra,...)",
+"specialties": [
+	"Commerce"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "David Chandler",
+
+"Location": "Atlanta, USA",
+
+"contact": {
+	"website": "http://turbomanage.wordpress.com/"
+},
+
+"occupation": "Developer Advocate for Android",
+"bio": "David is Developer Advocate for Android and dabbles in GWT and App Engine also. An electrical engineer by training, Chandler got hooked on developing database Web applications in the days of NCSA Mosaic and has since written Web applications professionally in a variety of languages, including C, perl, ksh, ColdFusion, Java, JSF, and GWT. Prior to joining Google, Chandler worked on Internet banking applications with Intuit and launched a non-profit startup built with GWT and Google App Engine. Chandler holds a patent on a method of organizing hierarchical data in a relational database and blogs about Java Web and mobile development at turbomanage.wordpress.com.",
+"specialties": [
+	"Android",
+	"GWT",
+	"App Engine",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "david McLaughlin",
+
+"Location": "San Francisco, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/dsmcl"
+},
+
+"occupation": "Program Manager in Developer Relations",
+"bio": "David McLaughlin is a program manager in Developer Relations. His focus areas include encouraging worldwide developer communities and entrepreneurship, Android, open source, and open standards. David also enjoys traveling and exploring new cities around the world.",
+"specialties": [
+	"Android"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "David Toress",
+
+"Location": "New York City, USA",
+
+"contact": {
+	"website": "https://twitter.com/dhtorres"
+},
+
+"occupation": "Developer Programs Engineer in the AdWords API Team",
+"bio": "David is a Developer Programs Engineer in the AdWords API Team. He wrote the latest version of the Perl client library for the AdWords API. An experienced software developer with more than 9 years of experience, you can find him in the New York office.",
+"specialties": [
+	"AdWords API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Dawid Ostrokwski",
+
+"Location": "Krakow, Poland",
+
+"contact": {
+	"website": "https://www.twitter.com/dapios"
+},
+
+"occupation": "Java Developer and Trainer",
+"bio": "Dawid is true Google technology admirer, experienced Java developer and trainer, who joined Google to be in a place where the best humans create and use the best technology. His goal is to make developers in Poland successful in building applications and businesses on Google's great developer platforms and APIs. Prior to joining Google DevRel team Dawid worked as freelance developer and trainer in projects of various size (from small startups to big players like IBM) in Poland, USA, Germany, Belgium and The Netherlands. He likes playing squash and traveling.",
+"specialties": [
+	"GWT",
+	"App Engine",
+	"Google Apps Script",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Don Dodge",
+
+"Location": "Silicon Valley",
+
+"contact": {
+	"website": "https://www.twitter.com/dondodge"
+},
+
+"occupation": "Developer Advocate",
+"bio": "Don is a Developer Advocate at Google helping developers build new applications on Google platforms and technologies. Prior to joining Google Don was a startup evangelist at Microsoft. He is also a veteran of five start-ups including Forte Software, AltaVista, Napster, Bowstreet, and Groove Networks.",
+"specialties": [
+	"Google Apps",
+	"Google Apps Marketplace",
+	"Startups",
+	"Venture Capital"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Doug Kramer",
+
+"Location": "California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/110090257898374441875/posts"
+},
+
+"occupation": "Tech Writer on the Google+ APIs",
+"bio": "Doug is a tech writer on the Google+ APIs, aiming to provide documentation that truly satisfies developer needs. He has worked on docs for various APIs at Google. In a past life, he worked on the Javadoc and JDK teams at Sun and was a co-author of the "Java Class Libraries" book.",
+"specialties": [
+	"Google+ API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
 },]
