@@ -1,0 +1,668 @@
+[{
+"name": "Aaron Karp",
+
+"Location": "New York City, USA",
+
+"contact": {
+	"website": "https://plus.google.com/113241173968510004660/about"
+},
+
+"occupation": "Head of AdWords API Developer Advocacy Team",
+"bio": "Aaron joined Google in 2006 and currently leads the AdWords API Developer Advocacy team. He works with Google's largest AdWords developers to help them bring compelling and reliable applications into the AdWords ecosystem.",
+"specialties": [
+	"AdWords API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+{
+"name": "Adam Koch",
+
+"Location": "New York City, USA",
+
+"contact": {
+	"website": "https://plus.google.com/+AdamKoch/about"
+},
+
+
+"occupation": "Android Developer Advocate",
+"bio": "Adam is an Android Developer Advocate with a passion for Android and all things mobile. With over 10 years of experience in the industry, Adam's focus is helping New York's tech community develop awesome Android apps. While Adam enjoys living in NYC, he hopes to return back home to Australia one day and continue his Android advocacy down under.",
+"specialties": [
+	"Android"
+],
+
+"company": {
+	"name": "Google",
+	"website": "www.google.com"
+}
+
+},
+
+{
+"name": "Adam Ohren",
+
+"Location": "New York City, USA",
+
+"contact": {
+	"website": "https://plus.google.com/101768543379165603736/about"
+},
+
+"occupation": "Member of AdWords API Developer Advocacy Team",
+"bio": "Adam joined Google's New York office in 2011 and is a member of the AdWords API Developer Advocacy team. He works with Google's largest reseller partners and agencies to help them integrate their products and services with AdWords.",
+"specialties": [
+	"AdWords API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Adam Rogal",
+
+"Location": "New York City, USA",
+
+"contact": {
+	"website": "https://plus.google.com/100742954389084668497/about"
+},
+
+"occupation": "Developler Programs Engineer",
+"bio": "Adam is a Developer Programs Engineer who currently works on the the DoubleClick For Publishers API. He works in the New York office and you'll usually find him working on the Java client library for almost all Ads API products.",
+"specialties": [
+	"DoubleClick for Publishers API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Addy Osmani",
+
+"Location": "London, UK",
+
+"contact": {
+	"website": "http://www.twitter.com/addyosmani"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Addy is a Developer Programs Engineer on the Chrome Developer Relations team, focusing on tools that can help developers create large, organized applications more easily.",
+"specialties": [
+
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Ade Oshineye",
+
+"Location": "London, UK",
+
+"contact": {
+	"website": "https://plus.google.com/+AdeOshineye/about"
+},
+
+"occupation": "Developler Advocate",
+"bio": "Ade is a Developer Advocate in Google's London office. He's interested in the protocols and technologies that power the social web. He'd love to show you how social features can make your software better. Over the last decade he's worked on trading systems for a variety of investment banks as well as on Google's Ads and mobile search systems. He's also the co-author of "Apprenticeship Patterns": a book that teaches you how to learn to be a great programmer.",
+"specialties": [
+	"Google+",
+	"Social",
+	"Social Web",
+	"Open Web",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Alain Vongsouvanh",
+
+"Location": "San Francisco Bay Area, US",
+
+"contact": {
+	"website": "https://plus.google.com/110487324451850883514/about"
+},
+
+"occupation": "Developler Programs Engineer",
+"bio": "Alain is a Developer Programs Engineer for the Google Drive SDK. Before Google, he graduated with his Master degree in Computer Science from EPITA, France.",
+"specialties": [
+	"Google Drive SDK"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Alejandro Villanueva",
+
+"Location": "",
+
+"contact": {
+	"website": "https://plus.google.com/114517019304788847616/about"
+},
+
+"occupation": "Developer Relations Lead",
+"bio": "Alejandro works at Google as the Developer Relations Lead for EMEA and LATAM. His role is to spearhead advocacy, outreach and support initiatives to help developer communities successfully use open standards and the Google developer platform. This includes fostering the growth and technological advancement of local start-ups developing web and mobile applications. Alejandro is an industry veteran with over 20 years of experience working in high- tech companies.",
+"specialties": [
+	"International Developer Programs",
+	"Cloud Platform",
+	"Mobile",
+	"Geo",
+	"Techologies for Emerging Markets",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Alex Danilo",
+
+"Location": "Sydney, Australia",
+
+"contact": {
+	"website": "https://www.twitter.com/alexanderdanilo"
+},
+
+"occupation": "Chrome Developer Advocate",
+"bio": "Alex is a Developer Advocate for Chrome at Google. He has been involved with W3C web standardization for over a decade. Prior to Google, he was an architect and team leader for web engine implementations that focused on high performance, mobile and embedded devices.",
+"specialties": [
+	"Chrome",
+	"HTML5",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Alexander Lucas",
+
+"Location": "California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/111805907936971909430/about"
+},
+
+"occupation": "Developler Programs Engineer",
+"bio": "Alex is a Developer Programs Engineer on the Android team at Google. He works with the Android development community at large to aid in understanding the Android platform and development of high quality Android applications.",
+"specialties": [
+	"Android",
+	"Analytics",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Alexis Moussine-Pouchkine",
+
+"Location": "Paris, France",
+
+"contact": {
+	"website": "https://www.twitter.com/alexismp"
+},
+
+"occupation": "Developer Relations Program Manager",
+"bio": "Alexis is a Developer Relations Program Manager at Google in Paris, France. He helps French developers be successful using all and any Google technologies. Alexis has a strong Java and Open Source background.",
+"specialties": [
+	"APP Engine",
+	"Open Source",
+	"Building communities",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Alfredo Morresi",
+
+"Location": "Italy",
+
+"contact": {
+	"website": "https://plus.google.com/108670469644954045753/about"
+},
+
+"occupation": "Developer Relations Program Manager",
+"bio": "Alfredo is a Developer Relations Program Manager at Google in Italy. He fills his day helping Italian developers in creating great applications using Google technologies, finding how to support universities interested in Google dev tools and digging around the Italian startup scene. He is a community enthusiast and a free software lover and, prior to joining Google, he was a proud Android developer. In his free time, he enjoy snowboarding and eating Tiramisu'.",
+"specialties": [
+	"Android"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Ali Afshar",
+
+"Location": "Santa Clara, US",
+
+"contact": {
+	"website": "https://plus.google.com/100742954389084668497/about"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Ali is a Developer Programs Engineer at Google, working on the Google Drive SDK. As an eternal open source advocate, he contributes to a number of open source applications, and is the author of the PIDA Python IDE. Once an intensive care physician, he has a special interest in all aspects of technology for healthcare.",
+"specialties": [
+	"Google Drive API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Amanda Surya",
+
+"Location": "Silicon Valley",
+
+"contact": {
+	"website": "https://plus.google.com/100701171891592623537/about"
+},
+
+"occupation": "Manager of Developer Relations for YouTube and Google Commerce",
+"bio": "AAmanda manages developer relations efforts for YouTube and Google Commerce products. She's been at Google since 2006 and has helped build the developer communities around multiple products like Google TV, Google Apps, Google App Engine and Google Web Toolkit. Previously, she held various engineering roles at Bank of America and SBC (AT&T).",
+"specialties": [
+	"Google Commerce",
+	"YouTube",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Amir Shevat",
+
+"Location": "Israel",
+
+"contact": {
+	"website": "https://plus.google.com/101616131029261770398/about"
+},
+
+"occupation": "Developer Relations Program Manager",
+"bio": "Amir is a Developer Relations Program Manager in Google Israel, helping Israeli developers and start-ups with Google Technologies as well as promoting Open Source Software and open standards in the Israeli market.",
+"specialties": [
+	"App Engine",
+	"Android",
+	"Open Source",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Amy Unruh",
+
+"Location": "Austin, Texas, USA",
+
+"contact": {
+	"website": "https://plus.google.com/109136855341297709165/about"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Amy is a Developer Programs Engineer, focusing on App Engine and Google's cloud computing technologies.",
+"specialties": [
+	"App Engine",
+	"Cloud",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Anash Oommen",
+
+"Location": "India",
+
+"contact": {
+	"website": "https://plus.google.com/103205605030324928671/about"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Anash is a Developer Programs Engineer working primarily on the AdWords API. He spends his days in the Hyderabad office working on the .NET client library for almost all Ads API products, moderating developer forums, and writing for social media. Before joining Google, Anash was a Senior Software Engineer at Compro Technologies Pvt. Ltd, New Delhi.",
+"specialties": [
+	"AdWords API"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Andrew Gerrand",
+
+"Location": "Sydney, Australia",
+
+"contact": {
+	"website": "https://www.twitter.com/enneff"
+},
+
+"occupation": "Developer Advocate",
+"bio": "Andrew is Developer Advocate and member of the Go Programming Language team at Google. He writes Go articles and tutorials, gives Go talks and workshops, does Go code reviews, and writes Go code. He also manages the Go community, web site (golang.org), and continuous build infrastructure (for the Go project). (Can you see a pattern here?) Before joining Google, Andrew was a consultant programmer at companies ranging from web startups to Internet Providers. He has also worked as a composer, photographer, SCUBA diver, and concert tour manager (although not at the same time).",
+"specialties": [
+	"Go",
+	"App Engine",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Andrés Ferraté",
+
+"Location": "California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/reventazon"
+},
+
+"occupation": "Manages the Geo Developer Relations Team",
+"bio": "Andrés manages the Geo Developer Relations team. Prior to joining the Geo team, he worked as a Developer Advocate for Google TV, helping developers build cool and compelling applications for that platform. Andrés has a broad range of experience, having worked with various technologies in the private, public, and non-profit sectors.",
+"specialties": [
+	"Maps",
+	"Google TV",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Anirudh Dewani",
+
+"Location": "India",
+
+"contact": {
+	"website": "https://plus.google.com/115515252844412246887/about"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Anirudh is a Developer Programs Engineer for Android and helps developers build compelling apps for the Android platform. In the past, Anirudh helped enterprises and developers integrate with Google's cloud offerings like Google Apps and Google App Engine. Before joining Google, Anirudh worked as an architecture consultant, designer, developer and performance engineer for Unisys and NTT Data Corporation.",
+"specialties": [
+	"Android",
+	"Cloud",
+	"Google Apps",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Ankur Kotwal",
+
+"Location": "Sydney, Australia",
+
+"contact": {
+	"website": "https://www.twitter.com/ankurkotwal"
+},
+
+"occupation": "Developer Advocate for Android",
+"bio": "Ankur is a Developer Advocate for Android at Google. He supports app developers to bring immersive, high quality apps to Google Play. Ankur is an experienced software engineer in scalable, high-performance, mission critical software with a passion for mobile technologies.",
+"specialties": [
+	"Android"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Bill Luan",
+
+"Location": "China",
+
+"contact": {
+	"website": "https://plus.google.com/100742954389084668497/about"
+},
+
+"occupation": "Senior Program Manager",
+"bio": "Bill is a Senior Program Manager in the Developer Relation team. He is also the Regional Lead for DevRel in Greater China, managing various outreach programs in the China market as well as in Hong Kong and Taiwan. His work includes helping partners adopt Google Maps, Chrome, Android, etc., and organizing events including Google Developer Days and DevFests in the Greater China region. Bill also helped establishing 10 GDG communities in China and Hong Kong, including one of the world's largest GGD in Beijing with 1,600+ members. Bill has been working in the high tech industry for more than 27 years, including more than 10 years managing development projects in Microsoft and Motorola before joining Google in 2008. Bill is also an author for a software project management book in China.",
+"specialties": [
+	"Google Maps",
+	"Android",
+	"HTML5",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": Billy Rutledge,
+
+"Location": "San Francisco, USA",
+
+"contact": {
+	"website": "https://twitter.com/billyrutledge"
+},
+
+"occupation": "Team Lead and Developer Advocate for Android, AdWords and Analytics",
+"bio": "Billy has been a Team Lead and Developer Advocate for Android, AdWords and Analytics at Google since 2006. He engages with strategic partners and developer communities on Google products and APIs to encourage the development of high-quality, innovative applications.",
+"specialties": [
+	"Android",
+	"AdWords API",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Bob Aman",
+
+"Location": "Kenya",
+
+"contact": {
+	"website": "https://plus.google.com/116452824309856782163/about"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Bob is a Developer Programs Engineer at Google, working with developers in Sub-Saharan Africa. He is passionate about open source, open ecosystems, delivering good developer experiences, and building software and APIs that people want to use. He once narrowly avoided a volcanic mishap due to a bad case of malaria. True story.",
+"specialties": [
+	"Google+",
+	"Buzz",
+	"App Engine",
+	"HTML5",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Boris Smus",
+
+"Location": "San Francisco, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/borismus"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Boris is a Developer Programs Engineer on the Google Chrome team. Before joining Google, he lived on a tropical island in the Atlantic. Earlier still, Boris worked on iWeb and iWork.com at Apple. He has a MS in Human-Computer Interaction from Carnegie Mellon University. Boris spends his leisure time making music and enjoying the great outdoors.",
+"specialties": [
+	"Chrome",
+	"Open Web Platform",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Brendan Kenny",
+
+"Location": "Mountain View, California, USA",
+
+"contact": {
+	"website": "https://plus.google.com/114280001108380956660/about"
+},
+
+"occupation": "Engineer on Geo Developer Relations Team",
+"bio": "Brendan is an engineer on the Geo Developer Relations team. Prior to joining Google, he split his career between teaching math and helping advance the state of the web. Now he gets to do both.",
+"specialties": [
+	"Geo",
+	"HTML5",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Brett Johnson",
+
+"Location": "San Jose, California, USA",
+
+"contact": {
+	"website": "https://www.twitter.com/mrscripter"
+},
+
+"occupation": "Technical Writer on the Google+ Developer Relations Team",
+"bio": "Brett is a technical writer on the Google+ Developer Relations team.",
+"specialties": [
+	"Google+",
+	"JavaScript",
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Brett Morgan",
+
+"Location": "Sydney, Australia",
+
+"contact": {
+	"website": "https://www.twitter.com/domesticmouse"
+},
+
+"occupation": "Brett is a Developer Platforms Engineer for Blogger at Google. He works with developers to bring compelling user experiences to Blogger. He has over ten years industry experience working across various areas, from finance to online media.",
+"specialties": [
+	"Blogger",
+	"App Engine",
+	"GWT"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},
+
+{
+"name": "Bruno Oliveira",
+
+"Location": "Sao Paulo, Brazil",
+
+"contact": {
+	"website": "https://plus.google.com/102451193315916178828/about"
+},
+
+"occupation": "Developer Programs Engineer",
+"bio": "Bruno is a Developer Programs Engineer at Google. Based in Sao Paulo, Brazil, he works closely with developers in order to grow and engage the online community around Google developer products, with special emphasis on fostering the involvement of Brazilian developers. His focus areas are Orkut/OpenSocial and Android.",
+"specialties": [
+	"Orkut",
+	"OpenSocial",
+	"Android"
+],
+
+"company": {
+	"name": "Google",
+	"website": "http://www.google.com"
+}
+
+},]
